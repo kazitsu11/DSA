@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/kazitsu11/DSA/tree/master/0621-task-scheduler) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kazitsu11/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1029-two-city-scheduling](https://github.com/kazitsu11/DSA/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/kazitsu11/DSA/tree/master/1288-remove-covered-intervals) |
@@ -38,15 +39,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/kazitsu11/DSA/tree/master/0621-task-scheduler) |
 | [1029-two-city-scheduling](https://github.com/kazitsu11/DSA/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/kazitsu11/DSA/tree/master/1288-remove-covered-intervals) |
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/kazitsu11/DSA/tree/master/0621-task-scheduler) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kazitsu11/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1029-two-city-scheduling](https://github.com/kazitsu11/DSA/tree/master/1029-two-city-scheduling) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/kazitsu11/DSA/tree/master/0621-task-scheduler) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kazitsu11/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
+## Hash Table
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/kazitsu11/DSA/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/kazitsu11/DSA/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
