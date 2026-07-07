@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kazitsu11/DSA/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/kazitsu11/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kazitsu11/DSA/tree/master/0621-task-scheduler) |
+| [0739-daily-temperatures](https://github.com/kazitsu11/DSA/tree/master/0739-daily-temperatures) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kazitsu11/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/kazitsu11/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1029-two-city-scheduling](https://github.com/kazitsu11/DSA/tree/master/1029-two-city-scheduling) |
@@ -107,8 +108,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kazitsu11/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kazitsu11/DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kazitsu11/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kazitsu11/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
