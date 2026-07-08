@@ -26,12 +26,11 @@ public:
         while(!q.empty()){
             int n=q.size();
             long long first=q.front().second;
-            long long last;
+            long long last=q.back().second;
        while(n--){
             auto[node,index]=q.front();
-            q.pop();
             index-=first;
-            last=index;
+            q.pop();
 
             if(node->left!=NULL){
                 q.push({node->left,2*index+1});
@@ -40,7 +39,7 @@ public:
                 q.push({node->right,2*index+2});
             }
         }
-        ans=max(ans,last+1);
+        ans=max(ans,last-first+1);
         }
           return ans;
     }
