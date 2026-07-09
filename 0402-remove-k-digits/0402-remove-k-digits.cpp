@@ -11,6 +11,9 @@ public:
             }
             
             st.push(num[i]);
+            if(st.size()==1 && num[i]=='0'){
+                st.pop();
+            }
         }
 
         while(k>0 && !st.empty()){
@@ -23,12 +26,6 @@ public:
           st.pop();
         }
         reverse(ans.begin(),ans.end());
-
-int i=0;
-        while(ans[i]=='0' && i<ans.size()){
-            i++;
-        }
-          ans= ans.substr(i);
 
           if(ans.empty()){
             return "0";
