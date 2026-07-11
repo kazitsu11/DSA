@@ -1,30 +1,28 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        int n1=s1.length();
-        int n2=s2.length();
-        vector<int>c1(26,0),c2(26,0);
-        
-        if(n1>n2)
-        return false;
+        int n1 = s1.length();
+        int n2 = s2.length();
+        int l = 0;
 
-        for(int i=0;i<n1;++i){
-        c1[s1[i]-'a']++;
-        c2[s2[i]-'a']++;
-        }
-        if(c1==c2){
-            return true;
+        unordered_map<int, int> mp1;
+        unordered_map<int, int> mp2;
+
+        for (int i = 0; i < n1; ++i) {
+            mp1[s1[i]]++;
         }
 
-        for(int i=n1;i<n2;++i){
-            c2[s2[i]-'a']++;
-            c2[s2[i-n1]-'a']--;
-            if(c1==c2){
-            return true;
+        while (n1 <= n2) {
+            for (int i = l; i < n1; ++i) {
+                mp2[s2[i]]++;
+            }
+            if (mp1 == mp2) {
+                return true;
+            }
+            mp2.clear();
+             l++;
+             n1++;
         }
-        }
-
-        
         return false;
     }
 };
