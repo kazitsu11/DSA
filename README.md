@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/kazitsu11/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kazitsu11/DSA/tree/master/0112-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kazitsu11/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kazitsu11/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/kazitsu11/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kazitsu11/DSA/tree/master/0112-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kazitsu11/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kazitsu11/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/kazitsu11/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kazitsu11/DSA/tree/master/0112-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kazitsu11/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/kazitsu11/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kazitsu11/DSA/tree/master/0112-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search
 |  |
