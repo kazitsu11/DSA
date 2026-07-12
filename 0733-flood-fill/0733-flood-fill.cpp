@@ -29,6 +29,7 @@ public:
 
                 if (new_i >= 0 && new_i < n && new_j >= 0 && new_j < m && vis[new_i][new_j] == 0 && image[new_i][new_j] == initial_color) {
                     image[new_i][new_j] = color;
+                    vis[new_i][new_j]=1;
                      q.push({new_i, new_j});
                 }
             }   
