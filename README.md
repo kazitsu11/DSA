@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kazitsu11/DSA/tree/master/0733-flood-fill) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kazitsu11/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1971-find-if-path-exists-in-graph](https://github.com/kazitsu11/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kazitsu11/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kazitsu11/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -23,17 +24,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kazitsu11/DSA/tree/master/0733-flood-fill) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kazitsu11/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1971-find-if-path-exists-in-graph](https://github.com/kazitsu11/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kazitsu11/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kazitsu11/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/kazitsu11/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kazitsu11/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kazitsu11/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kazitsu11/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/kazitsu11/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kazitsu11/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kazitsu11/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kazitsu11/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
