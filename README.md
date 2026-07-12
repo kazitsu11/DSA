@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kazitsu11/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kazitsu11/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kazitsu11/DSA/tree/master/0085-maximal-rectangle) |
+| [0162-find-peak-element](https://github.com/kazitsu11/DSA/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kazitsu11/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kazitsu11/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/kazitsu11/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/kazitsu11/DSA/tree/master/0162-find-peak-element) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kazitsu11/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kazitsu11/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kazitsu11/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
