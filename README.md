@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kazitsu11/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kazitsu11/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kazitsu11/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kazitsu11/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -181,11 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kazitsu11/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search
 |  |
