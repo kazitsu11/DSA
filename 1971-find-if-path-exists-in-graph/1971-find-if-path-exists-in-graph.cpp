@@ -2,9 +2,9 @@ class Solution {
 public:
 vector<int> rank,parent;
 void disjoint(int n){
-rank.resize(n+1,0);
-parent.resize(n+1);
-for(int i=1;i<=n;i++){
+rank.resize(n,0);
+parent.resize(n);
+for(int i=0;i<n;i++){
     parent[i]=i;
 }
 }
