@@ -1,6 +1,6 @@
 class Solution {
 public:
-int subset(vector<vector<bool>>& dp,int n,vector<int>& nums,int sum){
+bool subset(vector<vector<bool>>& dp,int n,vector<int>& nums,int sum){
     for(int i=0;i<n+1;++i){
                 dp[i][0]=true;
             }
