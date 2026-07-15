@@ -34,6 +34,6 @@ int subset(vector<vector<bool>>& dp,int n,vector<int>& nums,int sum){
         else{
             return false;
         }
-        return dp[n][sum];
+        return true;
     }
 };
