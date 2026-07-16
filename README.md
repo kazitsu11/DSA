@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kazitsu11/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kazitsu11/DSA/tree/master/0112-path-sum) |
+| [0322-coin-change](https://github.com/kazitsu11/DSA/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kazitsu11/DSA/tree/master/0733-flood-fill) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kazitsu11/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kazitsu11/DSA/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kazitsu11/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kazitsu11/DSA/tree/master/0217-contains-duplicate) |
+| [0322-coin-change](https://github.com/kazitsu11/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/kazitsu11/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/kazitsu11/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/kazitsu11/DSA/tree/master/0494-target-sum) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kazitsu11/DSA/tree/master/0085-maximal-rectangle) |
+| [0322-coin-change](https://github.com/kazitsu11/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kazitsu11/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/kazitsu11/DSA/tree/master/0494-target-sum) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kazitsu11/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
