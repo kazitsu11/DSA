@@ -24,7 +24,8 @@ public:
     int numSquares(int target) {
         vector<int> arr;
 
-        for (int i = 1; i*i <= target; ++i) {
+        for (int i = 1; i < target; ++i) {
+            if(i*i<=target)
             arr.push_back(i * i);
         }
         int n = arr.size();
