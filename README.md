@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kazitsu11/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kazitsu11/DSA/tree/master/0112-path-sum) |
+| [0279-perfect-squares](https://github.com/kazitsu11/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/kazitsu11/DSA/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kazitsu11/DSA/tree/master/0733-flood-fill) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kazitsu11/DSA/tree/master/0085-maximal-rectangle) |
+| [0279-perfect-squares](https://github.com/kazitsu11/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/kazitsu11/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kazitsu11/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/kazitsu11/DSA/tree/master/0494-target-sum) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/kazitsu11/DSA/tree/master/0279-perfect-squares) |
 | [0973-k-closest-points-to-origin](https://github.com/kazitsu11/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kazitsu11/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kazitsu11/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
