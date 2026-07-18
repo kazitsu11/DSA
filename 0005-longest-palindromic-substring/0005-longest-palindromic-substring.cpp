@@ -1,16 +1,21 @@
 class Solution {
 public:
+ int dp[1001][1001];
  bool solve(int i,int j,string&s){
     if(i>=j){
-        return true;
+        return 1;
+    }
+    if(dp[i][j]!=-1){
+        return dp[i][j];
     }
     if(s[i]==s[j]){
-        return solve(i+1,j-1,s);
+        return dp[i][j]=solve(i+1,j-1,s);
     }
-    return false;
+    return 0;
  }
     string longestPalindrome(string s) {
         int n=s.length();
+        memset(dp,-1,sizeof(dp));
 
        int  maxlen=INT_MIN;
       int  sp=0;
