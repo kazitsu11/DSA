@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/kazitsu11/DSA/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/kazitsu11/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kazitsu11/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kazitsu11/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/kazitsu11/DSA/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/kazitsu11/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/kazitsu11/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/kazitsu11/DSA/tree/master/0496-next-greater-element-i) |
