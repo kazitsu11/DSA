@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/kazitsu11/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/kazitsu11/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/kazitsu11/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1470-shuffle-the-array](https://github.com/kazitsu11/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kazitsu11/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/kazitsu11/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kazitsu11/DSA/tree/master/1584-min-cost-to-connect-all-points) |
