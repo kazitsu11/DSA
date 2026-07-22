@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kazitsu11/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kazitsu11/DSA/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/kazitsu11/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0386-lexicographical-numbers](https://github.com/kazitsu11/DSA/tree/master/0386-lexicographical-numbers) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kazitsu11/DSA/tree/master/0733-flood-fill) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kazitsu11/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kazitsu11/DSA/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/kazitsu11/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/kazitsu11/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/kazitsu11/DSA/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kazitsu11/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kazitsu11/DSA/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/kazitsu11/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kazitsu11/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kazitsu11/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kazitsu11/DSA/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/kazitsu11/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search
 |  |
