@@ -16,42 +16,39 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
-    ListNode* getmiddle(ListNode* head) {
+TreeNode* tree(vector<int>& arr,int left,int right){
+    int mid=left+(right-left)/2;
 
-        ListNode* slow = head;
-        ListNode* fast = head;
-        ListNode* prev = NULL;
-
-        while (fast != NULL && fast->next != NULL) {
-            prev = slow;
-            slow = slow->next;
-            fast = fast->next->next;
-        }
-        if (prev != NULL) {
-            prev->next = NULL;
-        }
-        return slow;
+    if(left>right){
+        return NULL;
     }
+    TreeNode* root=new TreeNode(arr[mid]);
+    root->left=tree(arr,left,mid-1);
+    root->right=tree(arr,mid+1,right);
+    
+    return root;
+}
     TreeNode* sortedListToBST(ListNode* head) {
+        
+        vector<int>arr;
+        // if(head==NULL){
+        // return new TreeNode(head->val);
+        // }
+        ListNode* curr=head;
 
-        if (head == NULL) {
-            return NULL;
+        while(curr!=NULL){
+         arr.push_back(curr->val);
+         curr=curr->next;
         }
-        if(head->next==NULL){
-            return new TreeNode(head->val);
-        }
-        ListNode* mid = getmiddle(head);
 
-        TreeNode* root = new TreeNode(mid->val);
-        root->left = sortedListToBST(head);
-        root->right = sortedListToBST(mid->next);
+        int left=0;
+        int right=arr.size()-1;
 
-        return root;
+      return  tree(arr,left,right);
     }
 };
