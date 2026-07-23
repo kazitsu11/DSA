@@ -7,7 +7,7 @@ public:
             return  n;
         }
  int bits=0;
-        while(n){
+        while(n>0){
             bits++;
             n=n>>1;
         }
