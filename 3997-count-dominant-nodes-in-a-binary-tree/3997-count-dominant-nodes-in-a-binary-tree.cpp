@@ -12,22 +12,26 @@
 class Solution {
 public:
 int count=0;
-int dfs(TreeNode*root){
+int bestval=INT_MIN;
+ int dfs(TreeNode* root){
     if(root==NULL){
-        return INT_MIN;
+        return 0;
     }
+
     int left=dfs(root->left);
     int right=dfs(root->right);
+    int left_right=max(left,right);
+    int only_root=root->val;
+    int subtree=max(root->val,left_right);
 
-    if(root->val>=max(left,right)){
+    if(only_root >= subtree){
         count++;
     }
-
-    return max(root->val,max(left,right));
-}
+    
+    return subtree;
+ }
     int countDominantNodes(TreeNode* root) {
         dfs(root);
         return count;
-        
     }
 };
