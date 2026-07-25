@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kazitsu11/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kazitsu11/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kazitsu11/DSA/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/kazitsu11/DSA/tree/master/0386-lexicographical-numbers) |
 | [0572-subtree-of-another-tree](https://github.com/kazitsu11/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kazitsu11/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kazitsu11/DSA/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/kazitsu11/DSA/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/kazitsu11/DSA/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kazitsu11/DSA/tree/master/0733-flood-fill) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/kazitsu11/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/kazitsu11/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/kazitsu11/DSA/tree/master/0115-distinct-subsequences) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/kazitsu11/DSA/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/kazitsu11/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/kazitsu11/DSA/tree/master/0567-permutation-in-string) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/kazitsu11/DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kazitsu11/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kazitsu11/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kazitsu11/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kazitsu11/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/kazitsu11/DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kazitsu11/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kazitsu11/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kazitsu11/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kazitsu11/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -331,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/kazitsu11/DSA/tree/master/0901-online-stock-span) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kazitsu11/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Data Stream
