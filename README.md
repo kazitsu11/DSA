@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kazitsu11/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/kazitsu11/DSA/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/kazitsu11/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kazitsu11/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/kazitsu11/DSA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/kazitsu11/DSA/tree/master/0115-distinct-subsequences) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kazitsu11/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kazitsu11/DSA/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/kazitsu11/DSA/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/kazitsu11/DSA/tree/master/0509-fibonacci-number) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kazitsu11/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kazitsu11/DSA/tree/master/0509-fibonacci-number) |
 ## Binary Indexed Tree
 |  |
