@@ -18,8 +18,6 @@ public:
                 right--;
             }
         }
-        // arr.push_back(left + 1);
-        // arr.push_back(right + 1);
-        return arr;
+        return {};
     }
 };
