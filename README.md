@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kazitsu11/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/kazitsu11/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/kazitsu11/DSA/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kazitsu11/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kazitsu11/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kazitsu11/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kazitsu11/DSA/tree/master/0200-number-of-islands) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kazitsu11/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/kazitsu11/DSA/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kazitsu11/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/kazitsu11/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kazitsu11/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/kazitsu11/DSA/tree/master/0875-koko-eating-bananas) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kazitsu11/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/kazitsu11/DSA/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kazitsu11/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kazitsu11/DSA/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/kazitsu11/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/kazitsu11/DSA/tree/master/0647-palindromic-substrings) |
