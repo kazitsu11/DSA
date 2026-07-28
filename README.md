@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kazitsu11/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/kazitsu11/DSA/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/kazitsu11/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kazitsu11/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kazitsu11/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/kazitsu11/DSA/tree/master/0085-maximal-rectangle) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kazitsu11/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kazitsu11/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kazitsu11/DSA/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/kazitsu11/DSA/tree/master/0279-perfect-squares) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kazitsu11/DSA/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kazitsu11/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Recursion
 |  |
