@@ -5,7 +5,7 @@ public:
         if (i == n - 1 && j == m - 1) {
             return 1;
         }
-        if (dp[i][j] != 0) {
+        if (dp[i][j] != -1) {
             return dp[i][j];
         }
         int count = 0;
@@ -21,7 +21,7 @@ public:
         return dp[i][j] = count;
     }
     int uniquePaths(int n, int m) {
-        vector<vector<int>> dp(n + 1, vector<int>(m + 1, 0));
+        vector<vector<int>> dp(n + 1, vector<int>(m + 1, -1));
         return dfs(0, 0, n, m, dp);
     }
 };
