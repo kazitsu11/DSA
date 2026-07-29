@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/kazitsu11/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kazitsu11/DSA/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kazitsu11/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/kazitsu11/DSA/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/kazitsu11/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/kazitsu11/DSA/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/kazitsu11/DSA/tree/master/0162-find-peak-element) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/kazitsu11/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/kazitsu11/DSA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/kazitsu11/DSA/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/kazitsu11/DSA/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kazitsu11/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/kazitsu11/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/kazitsu11/DSA/tree/master/0198-house-robber) |
