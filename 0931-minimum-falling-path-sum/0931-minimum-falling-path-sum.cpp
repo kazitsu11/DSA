@@ -19,7 +19,7 @@ int dp[101][101];
         int ans = INT_MAX;
         int n = matrix.size();
         int m = matrix[0].size();
-        vector<vector<int>>dp(n+1,vector<int>(m+1,INT_MIN));
+        vector<vector<int>>dp(n,vector<int>(n,INT_MIN));
         for (int j = 0; j < n; ++j) {
             ans = min(ans, solve(n - 1, j, matrix,dp));
         }
