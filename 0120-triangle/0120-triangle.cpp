@@ -2,6 +2,7 @@ class Solution {
 public:
 // int dp[201][201];
 int solve(int i,int j,vector<vector<int>>& triangle, vector<vector<int>>&dp){
+    if(j<0 || j>i) return INT_MAX;
     if(i==triangle.size()-1) return triangle[i][j];
 
     if(dp[i][j]!=INT_MIN) return dp[i][j];
