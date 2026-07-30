@@ -12,7 +12,7 @@ public:
 
        for(int i=0;i<26;++i){
         if(freq[i]==0){
-            break;
+            continue;
         }
         int cost=(i/8)+1;
         push+=freq[i]*cost;
