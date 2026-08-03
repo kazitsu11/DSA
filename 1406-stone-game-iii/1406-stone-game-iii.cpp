@@ -1,24 +1,51 @@
 class Solution {
 public:
-    string stoneGameIII(vector<int>& val) {
-        int n = val.size();
-        vector<int> dp(n + 1, 0);
 
-        for (int i = n - 1; i >= 0; --i) {
-            int ans = INT_MIN;
-            int sum = 0;
-            for (int j = 0; j < 3; ++j) {
-                if (i + j < n) {
-                    sum += val[i + j];
-            ans=max(ans,sum-dp[i+j+1]);
-                }
-            }
-            dp[i] = ans;
+    int solve(int i, vector<int>& val, vector<int>& dp) {
+
+        int n = val.size();
+
+        if(i == n)
+            return 0;
+
+        if(dp[i] != INT_MIN)
+            return dp[i];
+
+
+        int ans = INT_MIN;
+        int sum = 0;
+
+
+        for(int k = 0; k < 3 && i+k < n; k++) {
+
+            sum += val[i+k];
+
+            ans = max(ans,
+                sum - solve(i+k+1, val, dp)
+            );
         }
 
-        int diff=dp[0];
-        if(diff>0) return "Alice";
-        if(diff<0) return "Bob";
-        else return "Tie";
+
+        return dp[i] = ans;
+    }
+
+
+    string stoneGameIII(vector<int>& val) {
+
+        int n = val.size();
+
+        vector<int> dp(n+1, INT_MIN);
+
+        dp[n] = 0;   // memoize base case
+
+        int diff = solve(0,val,dp);
+
+
+        if(diff > 0)
+            return "Alice";
+        else if(diff < 0)
+            return "Bob";
+
+        return "Tie";
     }
 };
