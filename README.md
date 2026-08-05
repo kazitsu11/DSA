@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/kazitsu11/DSA/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/kazitsu11/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1260-shift-2d-grid](https://github.com/kazitsu11/DSA/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/kazitsu11/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/kazitsu11/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/kazitsu11/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/kazitsu11/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/kazitsu11/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/kazitsu11/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/kazitsu11/DSA/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/kazitsu11/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/kazitsu11/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kazitsu11/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/kazitsu11/DSA/tree/master/1406-stone-game-iii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/kazitsu11/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/kazitsu11/DSA/tree/master/0980-unique-paths-iii) |
 | [1260-shift-2d-grid](https://github.com/kazitsu11/DSA/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/kazitsu11/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/kazitsu11/DSA/tree/master/1301-number-of-paths-with-max-score) |
 ## Sorting
 |  |
