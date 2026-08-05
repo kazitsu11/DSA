@@ -3,7 +3,7 @@ public:
     int maximalSquare(vector<vector<char>>& matrix) {
         int n=matrix.size();
         int m=matrix[0].size();
-        vector<vector<int>>dp(n+1,vector<int>(m+1,0));
+        vector<vector<int>>dp(n,vector<int>(m,0));
         int maxSide=0;
 
         for(int i=0;i<n;++i){
