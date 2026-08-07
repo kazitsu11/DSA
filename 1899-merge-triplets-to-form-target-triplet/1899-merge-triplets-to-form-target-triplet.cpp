@@ -3,6 +3,7 @@ public:
     bool mergeTriplets(vector<vector<int>>& triplets, vector<int>& target) {
         int n=triplets.size();
         vector<vector<int>>arr;
+        if(n==0) return false;
 
         for(auto& a:triplets){
             int x=a[0];
@@ -14,7 +15,7 @@ public:
             }
         }
 
-         if(arr.empty()) return false;
+        if(arr.size()==0) return false;
          int current_x=arr[0][0];
          int current_y=arr[0][1];
          int current_z=arr[0][2];
