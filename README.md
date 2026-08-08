@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kazitsu11/DSA/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kazitsu11/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/kazitsu11/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kazitsu11/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kazitsu11/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kazitsu11/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/kazitsu11/DSA/tree/master/2498-frog-jump-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kazitsu11/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kazitsu11/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kazitsu11/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kazitsu11/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kazitsu11/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kazitsu11/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kazitsu11/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kazitsu11/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kazitsu11/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kazitsu11/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kazitsu11/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kazitsu11/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kazitsu11/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/kazitsu11/DSA/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/kazitsu11/DSA/tree/master/1048-longest-string-chain) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kazitsu11/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kazitsu11/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kazitsu11/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
