@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/kazitsu11/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/kazitsu11/DSA/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kazitsu11/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/kazitsu11/DSA/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kazitsu11/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/kazitsu11/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kazitsu11/DSA/tree/master/0877-stone-game) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/kazitsu11/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/kazitsu11/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/kazitsu11/DSA/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/kazitsu11/DSA/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kazitsu11/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1029-two-city-scheduling](https://github.com/kazitsu11/DSA/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kazitsu11/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
