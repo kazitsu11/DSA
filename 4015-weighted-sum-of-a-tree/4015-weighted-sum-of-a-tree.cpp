@@ -21,7 +21,7 @@ public:
         }
     }
     vector<int> depth(n);
-    dfs(0, adj, 0, depth);
+    dfs(0, adj, 1, depth);
 
     long long weight = 0;
 
