@@ -9,9 +9,10 @@ int solve(int i,int M,vector<int>& piles){
     int ans=INT_MIN;
      int sum=0;
     
-    for(int x=1;x<=2*M && i+x<=n;++x){
-        sum+=piles[i+x-1];
-      ans=max(ans,sum-solve(i+x,max(M,x),piles));
+    for(int x=0;x<2*M && i+x<n;++x){
+        sum+=piles[i+x];
+        int taken=x+1;
+      ans=max(ans,sum-solve(i+x+1,max(M,taken),piles));
     }
     return dp[i][M]= ans;
 }
