@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/kazitsu11/DSA/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/kazitsu11/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/kazitsu11/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kazitsu11/DSA/tree/master/0070-climbing-stairs) |
