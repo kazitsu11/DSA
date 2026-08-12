@@ -9,7 +9,7 @@ public:
         int right=0;
 
         for (int i = 0; i < n; ++i) {
-            mp[nums[i]]++;
+             mp[nums[i]]++; 
             while (mp[nums[i]] > k) {
                 mp[nums[left]]--;
                 left++;
