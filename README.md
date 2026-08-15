@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/kazitsu11/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/kazitsu11/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kazitsu11/DSA/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/kazitsu11/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/kazitsu11/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kazitsu11/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kazitsu11/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/kazitsu11/DSA/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/kazitsu11/DSA/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/kazitsu11/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kazitsu11/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kazitsu11/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kazitsu11/DSA/tree/master/0189-rotate-array) |
