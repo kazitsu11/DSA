@@ -35,8 +35,10 @@ int getsum(int left,int right){
         int n = val.size();
 
         preSum.resize(n+1,0);
+        int sum=0;
         for(int i=0;i<n;++i){
-            preSum[i+1]=preSum[i]+val[i];
+            sum+=val[i];
+            preSum[i+1]=sum;
         }
         memset(dp,-1,sizeof(dp));
         return solve(0, n - 1, val);
