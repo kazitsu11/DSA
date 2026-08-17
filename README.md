@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kazitsu11/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/kazitsu11/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kazitsu11/DSA/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/kazitsu11/DSA/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/kazitsu11/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/kazitsu11/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kazitsu11/DSA/tree/master/0064-minimum-path-sum) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kazitsu11/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kazitsu11/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kazitsu11/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kazitsu11/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kazitsu11/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kazitsu11/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/kazitsu11/DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/kazitsu11/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/kazitsu11/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/kazitsu11/DSA/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/kazitsu11/DSA/tree/master/0217-contains-duplicate) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kazitsu11/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kazitsu11/DSA/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/kazitsu11/DSA/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/kazitsu11/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/kazitsu11/DSA/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/kazitsu11/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/kazitsu11/DSA/tree/master/0115-distinct-subsequences) |
