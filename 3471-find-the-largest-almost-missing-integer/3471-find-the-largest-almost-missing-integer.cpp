@@ -8,7 +8,7 @@ public:
         int left = 0;
         for (int right = 0; right < n; ++right) {
             mp[nums[right]]++;
-            if (right - left + 1 > k) {
+            while (right - left + 1 > k) {
                 mp[nums[left]]--;
                 left++;
             }
