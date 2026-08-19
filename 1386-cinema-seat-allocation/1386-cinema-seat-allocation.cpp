@@ -19,7 +19,7 @@ public:
 
         for(auto & a:mp){
             int row=a.first;
-            unordered_set<int> bookedSeat=a.second;
+            unordered_set<int> &bookedSeat=a.second;
 
             bool groupA=available(2,bookedSeat) && available(3,bookedSeat) && available(4,bookedSeat) && available(5,bookedSeat);
             bool groupB=available(4,bookedSeat) && available(5,bookedSeat) && available(6,bookedSeat) && available(7,bookedSeat);
