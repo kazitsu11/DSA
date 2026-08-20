@@ -10,11 +10,10 @@ public:
 
         for (auto& p : mp) {
             int freq = p.second;
-
-            ans.push_back({freq, p.first});
+            if(freq>n/2){
+                return p.first;
+            }
         }
-
-        sort(ans.begin(), ans.end(), greater<vector<int>>());
-        return ans[0][1];
+return 0;
     }
 };
