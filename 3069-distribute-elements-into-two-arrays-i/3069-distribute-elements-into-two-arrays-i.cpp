@@ -20,17 +20,15 @@ public:
           }
         }
 
-        int m=arr1.size();
-        int j=arr2.size();
         vector<int>res;
 
-        for(int i=0;i<m;++i){
-            res.push_back(arr1[i]);
-        }
+     for(auto& a:arr1){
+        res.push_back(a);
+     }
 
-        for(int i=0;i<j;++i){
-            res.push_back(arr2[i]);
-        }
+     for(auto& a:arr2){
+        res.push_back(a);
+     }
 
         return res;
     }
