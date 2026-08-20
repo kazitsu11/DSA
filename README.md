@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kazitsu11/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kazitsu11/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kazitsu11/DSA/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/kazitsu11/DSA/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/kazitsu11/DSA/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/kazitsu11/DSA/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/kazitsu11/DSA/tree/master/0486-predict-the-winner) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kazitsu11/DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kazitsu11/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kazitsu11/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kazitsu11/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kazitsu11/DSA/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/kazitsu11/DSA/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kazitsu11/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kazitsu11/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
