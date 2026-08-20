@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kazitsu11/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kazitsu11/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/kazitsu11/DSA/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/kazitsu11/DSA/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/kazitsu11/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/kazitsu11/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kazitsu11/DSA/tree/master/0064-minimum-path-sum) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kazitsu11/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/kazitsu11/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kazitsu11/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kazitsu11/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kazitsu11/DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/kazitsu11/DSA/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/kazitsu11/DSA/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kazitsu11/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
