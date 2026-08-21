@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/kazitsu11/DSA/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kazitsu11/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/kazitsu11/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kazitsu11/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/kazitsu11/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kazitsu11/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kazitsu11/DSA/tree/master/2029-stone-game-ix) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kazitsu11/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kazitsu11/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kazitsu11/DSA/tree/master/1563-stone-game-v) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kazitsu11/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kazitsu11/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kazitsu11/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kazitsu11/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/kazitsu11/DSA/tree/master/0980-unique-paths-iii) |
 | [1386-cinema-seat-allocation](https://github.com/kazitsu11/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kazitsu11/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kazitsu11/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kazitsu11/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kazitsu11/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kazitsu11/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/kazitsu11/DSA/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/kazitsu11/DSA/tree/master/1291-sequential-digits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kazitsu11/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kazitsu11/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kazitsu11/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kazitsu11/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -690,11 +694,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0494-target-sum](https://github.com/kazitsu11/DSA/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/kazitsu11/DSA/tree/master/0980-unique-paths-iii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kazitsu11/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kazitsu11/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kazitsu11/DSA/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/kazitsu11/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kazitsu11/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kazitsu11/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kazitsu11/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
