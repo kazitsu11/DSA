@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kazitsu11/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/kazitsu11/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kazitsu11/DSA/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/kazitsu11/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/kazitsu11/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kazitsu11/DSA/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/kazitsu11/DSA/tree/master/0057-insert-interval) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/kazitsu11/DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/kazitsu11/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kazitsu11/DSA/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/kazitsu11/DSA/tree/master/0494-target-sum) |
