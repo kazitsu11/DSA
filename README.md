@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kazitsu11/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kazitsu11/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kazitsu11/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/kazitsu11/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/kazitsu11/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kazitsu11/DSA/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/kazitsu11/DSA/tree/master/0057-insert-interval) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kazitsu11/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kazitsu11/DSA/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/kazitsu11/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/kazitsu11/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kazitsu11/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kazitsu11/DSA/tree/master/0088-merge-sorted-array) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/kazitsu11/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/kazitsu11/DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/kazitsu11/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kazitsu11/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kazitsu11/DSA/tree/master/0090-subsets-ii) |
