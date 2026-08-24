@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kazitsu11/DSA/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/kazitsu11/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kazitsu11/DSA/tree/master/0112-path-sum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kazitsu11/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kazitsu11/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kazitsu11/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kazitsu11/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kazitsu11/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kazitsu11/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kazitsu11/DSA/tree/master/0085-maximal-rectangle) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/kazitsu11/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kazitsu11/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kazitsu11/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kazitsu11/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/kazitsu11/DSA/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/kazitsu11/DSA/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/kazitsu11/DSA/tree/master/0221-maximal-square) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/kazitsu11/DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/kazitsu11/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/kazitsu11/DSA/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/kazitsu11/DSA/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/kazitsu11/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/kazitsu11/DSA/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/kazitsu11/DSA/tree/master/0139-word-break) |
@@ -712,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/kazitsu11/DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/kazitsu11/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kazitsu11/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kazitsu11/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kazitsu11/DSA/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/kazitsu11/DSA/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/kazitsu11/DSA/tree/master/0980-unique-paths-iii) |
