@@ -21,6 +21,7 @@ bool solve(vector<int>&matchsticks,vector<int>&sides,int target,int idx){
             sum+=a;
         }
         int target=sum/4;
+        sort(matchsticks.begin(),matchsticks.end(),greater<int>());
         vector<int>sides(4,0);
         return solve(matchsticks,sides,target,0);
     }
