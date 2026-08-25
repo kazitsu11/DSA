@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/kazitsu11/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kazitsu11/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kazitsu11/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0473-matchsticks-to-square](https://github.com/kazitsu11/DSA/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/kazitsu11/DSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/kazitsu11/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/kazitsu11/DSA/tree/master/0494-target-sum) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/kazitsu11/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/kazitsu11/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kazitsu11/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0473-matchsticks-to-square](https://github.com/kazitsu11/DSA/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/kazitsu11/DSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/kazitsu11/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/kazitsu11/DSA/tree/master/0494-target-sum) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kazitsu11/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kazitsu11/DSA/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kazitsu11/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0473-matchsticks-to-square](https://github.com/kazitsu11/DSA/tree/master/0473-matchsticks-to-square) |
 | [0980-unique-paths-iii](https://github.com/kazitsu11/DSA/tree/master/0980-unique-paths-iii) |
 | [1386-cinema-seat-allocation](https://github.com/kazitsu11/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kazitsu11/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -724,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kazitsu11/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kazitsu11/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kazitsu11/DSA/tree/master/0090-subsets-ii) |
+| [0473-matchsticks-to-square](https://github.com/kazitsu11/DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/kazitsu11/DSA/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/kazitsu11/DSA/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kazitsu11/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -862,4 +866,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kazitsu11/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kazitsu11/DSA/tree/master/0229-majority-element-ii) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/kazitsu11/DSA/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
