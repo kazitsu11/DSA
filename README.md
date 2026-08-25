@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/kazitsu11/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/kazitsu11/DSA/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kazitsu11/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/kazitsu11/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0724-find-pivot-index](https://github.com/kazitsu11/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/kazitsu11/DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/kazitsu11/DSA/tree/master/0739-daily-temperatures) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kazitsu11/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/kazitsu11/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/kazitsu11/DSA/tree/master/0688-knight-probability-in-chessboard) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/kazitsu11/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kazitsu11/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/kazitsu11/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/kazitsu11/DSA/tree/master/0845-longest-mountain-in-array) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kazitsu11/DSA/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kazitsu11/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0473-matchsticks-to-square](https://github.com/kazitsu11/DSA/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/kazitsu11/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0980-unique-paths-iii](https://github.com/kazitsu11/DSA/tree/master/0980-unique-paths-iii) |
 | [1386-cinema-seat-allocation](https://github.com/kazitsu11/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kazitsu11/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -729,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kazitsu11/DSA/tree/master/0090-subsets-ii) |
 | [0473-matchsticks-to-square](https://github.com/kazitsu11/DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/kazitsu11/DSA/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/kazitsu11/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0980-unique-paths-iii](https://github.com/kazitsu11/DSA/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kazitsu11/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kazitsu11/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -776,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kazitsu11/DSA/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kazitsu11/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/kazitsu11/DSA/tree/master/0509-fibonacci-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/kazitsu11/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -870,4 +875,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/kazitsu11/DSA/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/kazitsu11/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
