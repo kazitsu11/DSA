@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kazitsu11/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kazitsu11/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/kazitsu11/DSA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/kazitsu11/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/kazitsu11/DSA/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/kazitsu11/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/kazitsu11/DSA/tree/master/0063-unique-paths-ii) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kazitsu11/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/kazitsu11/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kazitsu11/DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/kazitsu11/DSA/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/kazitsu11/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kazitsu11/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kazitsu11/DSA/tree/master/0079-word-search) |
@@ -878,4 +880,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/kazitsu11/DSA/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kazitsu11/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/kazitsu11/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
