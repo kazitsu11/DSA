@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kazitsu11/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/kazitsu11/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/kazitsu11/DSA/tree/master/0368-largest-divisible-subset) |
+| [0414-third-maximum-number](https://github.com/kazitsu11/DSA/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/kazitsu11/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kazitsu11/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/kazitsu11/DSA/tree/master/0473-matchsticks-to-square) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kazitsu11/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/kazitsu11/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/kazitsu11/DSA/tree/master/0368-largest-divisible-subset) |
+| [0414-third-maximum-number](https://github.com/kazitsu11/DSA/tree/master/0414-third-maximum-number) |
 | [0502-ipo](https://github.com/kazitsu11/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kazitsu11/DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kazitsu11/DSA/tree/master/0628-maximum-product-of-three-numbers) |
