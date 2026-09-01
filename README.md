@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kazitsu11/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kazitsu11/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/kazitsu11/DSA/tree/master/0658-find-k-closest-elements) |
+| [0767-reorganize-string](https://github.com/kazitsu11/DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/kazitsu11/DSA/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/kazitsu11/DSA/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/kazitsu11/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/kazitsu11/DSA/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kazitsu11/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/kazitsu11/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/kazitsu11/DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/kazitsu11/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/kazitsu11/DSA/tree/master/0860-lemonade-change) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kazitsu11/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/kazitsu11/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kazitsu11/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/kazitsu11/DSA/tree/master/0658-find-k-closest-elements) |
+| [0767-reorganize-string](https://github.com/kazitsu11/DSA/tree/master/0767-reorganize-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kazitsu11/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/kazitsu11/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kazitsu11/DSA/tree/master/1046-last-stone-weight) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kazitsu11/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/kazitsu11/DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/kazitsu11/DSA/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/kazitsu11/DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/kazitsu11/DSA/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1048-longest-string-chain](https://github.com/kazitsu11/DSA/tree/master/1048-longest-string-chain) |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kazitsu11/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kazitsu11/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/kazitsu11/DSA/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/kazitsu11/DSA/tree/master/0767-reorganize-string) |
 | [2029-stone-game-ix](https://github.com/kazitsu11/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kazitsu11/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kazitsu11/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -555,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/kazitsu11/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/kazitsu11/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kazitsu11/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0767-reorganize-string](https://github.com/kazitsu11/DSA/tree/master/0767-reorganize-string) |
 | [1048-longest-string-chain](https://github.com/kazitsu11/DSA/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kazitsu11/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/kazitsu11/DSA/tree/master/1092-shortest-common-supersequence) |
