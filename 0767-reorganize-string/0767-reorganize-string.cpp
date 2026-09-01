@@ -23,11 +23,7 @@ public:
             time++;
 
             if (!cooldown.empty() && cooldown.front()[1] == time) {
-                auto curr = cooldown.front();
-                int first = curr[0];
-                int second = curr[1];
-                char third = curr[2];
-                pq.push({first,third});
+                pq.push({cooldown.front()[0],cooldown.front()[2]});
                     cooldown.pop();
             }
             
@@ -40,7 +36,8 @@ public:
                     if (--cnt > 0) {
                         cooldown.push({cnt, time + 2, ch});
                     }
-            } else
+            }
+             else
                 return "";
             }
             return t;
