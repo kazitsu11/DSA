@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/kazitsu11/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kazitsu11/DSA/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/kazitsu11/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/kazitsu11/DSA/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/kazitsu11/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/kazitsu11/DSA/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kazitsu11/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/kazitsu11/DSA/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kazitsu11/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/kazitsu11/DSA/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/kazitsu11/DSA/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/kazitsu11/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/kazitsu11/DSA/tree/master/0980-unique-paths-iii) |
 | [1260-shift-2d-grid](https://github.com/kazitsu11/DSA/tree/master/1260-shift-2d-grid) |
