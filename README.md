@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kazitsu11/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/kazitsu11/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/kazitsu11/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/kazitsu11/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/kazitsu11/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/kazitsu11/DSA/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/kazitsu11/DSA/tree/master/0414-third-maximum-number) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kazitsu11/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kazitsu11/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kazitsu11/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/kazitsu11/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/kazitsu11/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/kazitsu11/DSA/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/kazitsu11/DSA/tree/master/0414-third-maximum-number) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/kazitsu11/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kazitsu11/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kazitsu11/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/kazitsu11/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/kazitsu11/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kazitsu11/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kazitsu11/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kazitsu11/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/kazitsu11/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kazitsu11/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/kazitsu11/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/kazitsu11/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0658-find-k-closest-elements](https://github.com/kazitsu11/DSA/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kazitsu11/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -741,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kazitsu11/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kazitsu11/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kazitsu11/DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/kazitsu11/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kazitsu11/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/kazitsu11/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/kazitsu11/DSA/tree/master/0647-palindromic-substrings) |
