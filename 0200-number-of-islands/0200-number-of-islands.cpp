@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> directions = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
     void dfs(int i, int j, int n, int m, vector<vector<char>>& grid,vector<vector<int>>&vis) {
-        if(i<0 || j<0 || i>=n || j>=m) return;
+        // if(i<0 || j<0 || i>=n || j>=m) return;
         if (grid[i][j] == '0') return;
         
         for (auto& dir:directions) {
