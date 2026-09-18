@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/kazitsu11/DSA/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/kazitsu11/DSA/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/kazitsu11/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/kazitsu11/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kazitsu11/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kazitsu11/DSA/tree/master/0455-assign-cookies) |
 | [0473-matchsticks-to-square](https://github.com/kazitsu11/DSA/tree/master/0473-matchsticks-to-square) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/kazitsu11/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/kazitsu11/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kazitsu11/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/kazitsu11/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/kazitsu11/DSA/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/kazitsu11/DSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/kazitsu11/DSA/tree/master/0486-predict-the-winner) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/kazitsu11/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/kazitsu11/DSA/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/kazitsu11/DSA/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/kazitsu11/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kazitsu11/DSA/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/kazitsu11/DSA/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/kazitsu11/DSA/tree/master/0621-task-scheduler) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/kazitsu11/DSA/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/kazitsu11/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/kazitsu11/DSA/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/kazitsu11/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/kazitsu11/DSA/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/kazitsu11/DSA/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/kazitsu11/DSA/tree/master/0605-can-place-flowers) |
