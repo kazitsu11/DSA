@@ -8,9 +8,10 @@ class Solution {
                 mp.put(nums[i],i);
             }
             else{
-                return new int[]{mp.get(target-nums[i]),i};
+               return new int[]{mp.get(target-nums[i]),i};
+
             }
         }
-        return new int[] {};
+        return new int[]{};
     }
 }
