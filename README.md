@@ -916,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/kazitsu11/DSA/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/kazitsu11/DSA/tree/master/0474-ones-and-zeroes) |
 ## 0-1 Knapsack
 |  |
@@ -1012,4 +1013,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kazitsu11/DSA/tree/master/0455-assign-cookies) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/kazitsu11/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
