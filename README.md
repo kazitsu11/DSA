@@ -859,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/kazitsu11/DSA/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/kazitsu11/DSA/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/kazitsu11/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/kazitsu11/DSA/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kazitsu11/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kazitsu11/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0206-reverse-linked-list](https://github.com/kazitsu11/DSA/tree/master/0206-reverse-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kazitsu11/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String Matching
 |  |
