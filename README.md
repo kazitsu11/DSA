@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kazitsu11/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0997-find-the-town-judge](https://github.com/kazitsu11/DSA/tree/master/0997-find-the-town-judge) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kazitsu11/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kazitsu11/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kazitsu11/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/kazitsu11/DSA/tree/master/0978-longest-turbulent-subarray) |
 | [0980-unique-paths-iii](https://github.com/kazitsu11/DSA/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/kazitsu11/DSA/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/kazitsu11/DSA/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kazitsu11/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/kazitsu11/DSA/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/kazitsu11/DSA/tree/master/1046-last-stone-weight) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/kazitsu11/DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/kazitsu11/DSA/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0997-find-the-town-judge](https://github.com/kazitsu11/DSA/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/kazitsu11/DSA/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/kazitsu11/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/kazitsu11/DSA/tree/master/1386-cinema-seat-allocation) |
