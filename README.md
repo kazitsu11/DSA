@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/kazitsu11/DSA/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/kazitsu11/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/kazitsu11/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kazitsu11/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kazitsu11/DSA/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/kazitsu11/DSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/kazitsu11/DSA/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/kazitsu11/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kazitsu11/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kazitsu11/DSA/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kazitsu11/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kazitsu11/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kazitsu11/DSA/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/kazitsu11/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kazitsu11/DSA/tree/master/0695-max-area-of-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kazitsu11/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kazitsu11/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/kazitsu11/DSA/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kazitsu11/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0684-redundant-connection](https://github.com/kazitsu11/DSA/tree/master/0684-redundant-connection) |
 | [0997-find-the-town-judge](https://github.com/kazitsu11/DSA/tree/master/0997-find-the-town-judge) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kazitsu11/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kazitsu11/DSA/tree/master/1971-find-if-path-exists-in-graph) |
