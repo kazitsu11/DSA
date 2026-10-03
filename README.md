@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kazitsu11/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kazitsu11/DSA/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/kazitsu11/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/kazitsu11/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/kazitsu11/DSA/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/kazitsu11/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kazitsu11/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/kazitsu11/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kazitsu11/DSA/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/kazitsu11/DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/kazitsu11/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kazitsu11/DSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/kazitsu11/DSA/tree/master/0139-word-break) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/kazitsu11/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/kazitsu11/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/kazitsu11/DSA/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/kazitsu11/DSA/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/kazitsu11/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/kazitsu11/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kazitsu11/DSA/tree/master/0242-valid-anagram) |
@@ -1087,4 +1090,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/kazitsu11/DSA/tree/master/0881-boats-to-save-people) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/kazitsu11/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
