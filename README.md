@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/kazitsu11/DSA/tree/master/2029-stone-game-ix) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/kazitsu11/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kazitsu11/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/kazitsu11/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2498-frog-jump-ii](https://github.com/kazitsu11/DSA/tree/master/2498-frog-jump-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kazitsu11/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kazitsu11/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kazitsu11/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/kazitsu11/DSA/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/kazitsu11/DSA/tree/master/1872-stone-game-viii) |
+| [2270-number-of-ways-to-split-array](https://github.com/kazitsu11/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kazitsu11/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kazitsu11/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kazitsu11/DSA/tree/master/3903-smallest-stable-index-i) |
