@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kazitsu11/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kazitsu11/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/kazitsu11/DSA/tree/master/0881-boats-to-save-people) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/kazitsu11/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0931-minimum-falling-path-sum](https://github.com/kazitsu11/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/kazitsu11/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0978-longest-turbulent-subarray](https://github.com/kazitsu11/DSA/tree/master/0978-longest-turbulent-subarray) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/kazitsu11/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kazitsu11/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/kazitsu11/DSA/tree/master/0877-stone-game) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/kazitsu11/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0931-minimum-falling-path-sum](https://github.com/kazitsu11/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/kazitsu11/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0978-longest-turbulent-subarray](https://github.com/kazitsu11/DSA/tree/master/0978-longest-turbulent-subarray) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kazitsu11/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0473-matchsticks-to-square](https://github.com/kazitsu11/DSA/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/kazitsu11/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/kazitsu11/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0980-unique-paths-iii](https://github.com/kazitsu11/DSA/tree/master/0980-unique-paths-iii) |
 | [1386-cinema-seat-allocation](https://github.com/kazitsu11/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/kazitsu11/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
