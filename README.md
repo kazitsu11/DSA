@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/kazitsu11/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2498-frog-jump-ii](https://github.com/kazitsu11/DSA/tree/master/2498-frog-jump-ii) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kazitsu11/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kazitsu11/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kazitsu11/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kazitsu11/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kazitsu11/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/kazitsu11/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/kazitsu11/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kazitsu11/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kazitsu11/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kazitsu11/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kazitsu11/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kazitsu11/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -942,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/kazitsu11/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kazitsu11/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kazitsu11/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kazitsu11/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search Tree
 |  |
@@ -978,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/kazitsu11/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kazitsu11/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kazitsu11/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Counting Sort
 |  |
 | ------- |
