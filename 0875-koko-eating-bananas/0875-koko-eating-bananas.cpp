@@ -4,7 +4,7 @@ bool eat(int k,vector<int>& piles, int h){
     int n= piles.size();
     long long hours=0;
     for(int i=0;i<n;++i){
-    hours=hours+(piles[i]+k-1)/k;
+    hours+=(piles[i]+k-1)/k;
     }
     if(hours<=h){
         return true;
