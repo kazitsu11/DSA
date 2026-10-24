@@ -28,13 +28,13 @@ int peekEl=-1;
     
     int peek() {
         if(output.empty()){
-            return peekEl;
+          return peekEl;
         }
         return output.top();
     }
     
     bool empty() {
-        if(output.empty() && input.empty()){
+        if(input.empty() && output.empty()){
             return true;
         }
         return false;
