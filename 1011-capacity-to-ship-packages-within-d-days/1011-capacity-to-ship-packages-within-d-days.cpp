@@ -22,17 +22,15 @@ public:
             sum+=a;
         }
         int high=sum;
-         int ans=0;
         while(low<=high){
           int mid=low+(high-low)/2;
           if(ismid(mid,weights,days)){
-            ans=mid;
             high=mid-1;
           }
           else{
             low=mid+1;
           }
         }
-        return ans;
+        return low;
     }
 };
