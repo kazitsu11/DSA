@@ -4,8 +4,9 @@ public:
     int sum=0;
     int daysneeded=1;
     for(auto& a:weights){
-        if(sum+a<=mid){
         sum+=a;
+        if(sum<=mid){
+         continue;
         }
         else{
             daysneeded++;
