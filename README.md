@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kazitsu11/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/kazitsu11/DSA/tree/master/0881-boats-to-save-people) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/kazitsu11/DSA/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0904-fruit-into-baskets](https://github.com/kazitsu11/DSA/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/kazitsu11/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/kazitsu11/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0978-longest-turbulent-subarray](https://github.com/kazitsu11/DSA/tree/master/0978-longest-turbulent-subarray) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/kazitsu11/DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/kazitsu11/DSA/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kazitsu11/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/kazitsu11/DSA/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/kazitsu11/DSA/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/kazitsu11/DSA/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/kazitsu11/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -891,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kazitsu11/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/kazitsu11/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/kazitsu11/DSA/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/kazitsu11/DSA/tree/master/0904-fruit-into-baskets) |
 | [0978-longest-turbulent-subarray](https://github.com/kazitsu11/DSA/tree/master/0978-longest-turbulent-subarray) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kazitsu11/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1871-jump-game-vii](https://github.com/kazitsu11/DSA/tree/master/1871-jump-game-vii) |
