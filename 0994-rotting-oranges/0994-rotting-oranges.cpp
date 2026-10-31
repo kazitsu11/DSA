@@ -2,44 +2,46 @@ class Solution {
 public:
 vector<vector<int>>directions={{-1,0},{1,0},{0,-1},{0,1}};
     int orangesRotting(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
-        queue<pair<int, int>> q;
-        int fresh = 0;
+        int n=grid.size();
+        int m=grid[0].size();
 
-        for (int i = 0; i < n; ++i) {
-            for (int j = 0; j < m; ++j) {
-                if (grid[i][j] == 2) {
-                    q.push({i, j});
+        int fresh=0;
+        //vector<vector<int>>vis(n,vector<int>(m,0));
+        queue<pair<int,int>>q;
+
+        for(int i=0;i<n;++i){
+            for(int j=0;j<m;++j){
+                if(grid[i][j]==2){
+                  q.push({i,j});
                 }
-                if (grid[i][j] == 1) {
-                    fresh++;
-                }
+                else if(grid[i][j]==1) fresh++;
             }
         }
-        if (fresh == 0)
-            return 0;
+        if(fresh==0) return 0;
 
-        int min = 0;
-        while (!q.empty()) {
-            int p = q.size();
+        int min=0;
+
+        while(!q.empty()){
+            int p=q.size();
             min++;
-            while (p--) {
-            int i = q.front().first;
-            int j = q.front().second;
+            while(p--){
+            int i=q.front().first;
+            int j=q.front().second;
             q.pop();
-                for (auto& dir : directions) {
-                    int new_i = i + dir[0];
-                    int new_j = j + dir[1];
 
-                    if (new_i >= 0 && new_j >= 0 && new_i < n && new_j < m && grid[new_i][new_j] == 1) {
-                        grid[new_i][new_j] = 2;
-                        fresh--;
-                        q.push({new_i, new_j});
-                    }
+            for(auto& dir:directions){
+                int new_i=i+dir[0];
+                int new_j=j+dir[1];
+
+          if(new_i>=0 && new_j>=0 && new_i<n && new_j<m && grid[new_i][new_j]==1){
+                    grid[new_i][new_j]=2;
+                    fresh--;
+                    q.push({new_i,new_j});
                 }
             }
+         }
         }
-        return fresh==0 ?min-1:-1;
+         if(fresh==0) return min-1;
+        return -1;
     }
 };
