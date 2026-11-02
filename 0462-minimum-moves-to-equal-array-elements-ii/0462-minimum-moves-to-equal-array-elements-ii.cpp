@@ -11,8 +11,8 @@ public:
         int op=0;
 
         while(left<=right){
-          op+=abs(nums[mid]-nums[left]);
-          op+=abs(nums[right]-nums[mid]);
+          op+=nums[mid]-nums[left];
+          op+=nums[right]-nums[mid];
           left++;
           right--;
         }
